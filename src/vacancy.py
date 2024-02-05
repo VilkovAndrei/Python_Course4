@@ -2,7 +2,7 @@ class Vacancy:
     """
     Класс вакансий
     """
-    def __init__(self, employer, title, url, salary_from, salary_to, requirement):
+    def __init__(self, employer, title, url, salary_from: int, salary_to: int, requirement: str):
         self.employer = employer
         self.title = title
         self.url = url

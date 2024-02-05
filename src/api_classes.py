@@ -98,7 +98,6 @@ class SuperJobAPI(EngineAPI):
             raise ParsingError(f"Ошибка получения вакансий! Статус: {response.status_code}")
         return response.json()["objects"]
 
-
     def get_vacancies(self, pages_count=10):
         count_vacancies = 0
         self.vacancies = []
@@ -125,7 +124,8 @@ class SuperJobAPI(EngineAPI):
                 "employer": vacancy["firm_name"],
                 "title": vacancy["profession"],
                 "url": vacancy["link"],
-                "salary_from": vacancy["payment_from"] if vacancy["payment_from"] and vacancy["payment_from"] != 0 else None,
+                "salary_from": vacancy["payment_from"] if vacancy["payment_from"] and vacancy["payment_from"] != 0
+                else None,
                 "salary_to": vacancy["payment_to"] if vacancy["payment_to"] and vacancy["payment_to"] != 0 else None,
                 "requirement": vacancy["candidat"] if vacancy["candidat"] else "",
             }

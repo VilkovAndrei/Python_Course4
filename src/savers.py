@@ -9,7 +9,7 @@ class JobProcessing(ABC):
     """Абстрактный класс для работы с файлом с вакансиями"""
 
     @abstractmethod
-    def insert(self):
+    def insert(self, *args):
         """Записывает информацию в файл"""
         pass
 
@@ -30,7 +30,7 @@ class JSONSaver(JobProcessing):
     """Класс для работы с json-файлом с вакансиями"""
 
     def __init__(self, keyword):
-        self.filename = os.path.join(ROOT_DIR, "data", keyword.title() + ".json").replace('\\','/')
+        self.filename = os.path.join(ROOT_DIR, "data", keyword.title() + ".json").replace('\\', '/')
         self.vacancies_json = []
         self.vacancies = []
 
