@@ -2,7 +2,7 @@ from abc import abstractmethod, ABC
 import os.path
 import json
 from config import ROOT_DIR
-from vacancy import Vacancy
+from src.vacancy import Vacancy
 
 
 class JobProcessing(ABC):

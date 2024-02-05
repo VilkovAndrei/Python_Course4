@@ -1,7 +1,7 @@
 from abc import abstractmethod, ABC
 import time
 import requests
-from exceptions import ParsingError
+from src.exceptions import ParsingError
 from config import KeySuperJobAPI
 
 
