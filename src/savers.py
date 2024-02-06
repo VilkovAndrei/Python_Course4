@@ -61,7 +61,7 @@ class JSONSaver(JobProcessing):
         return self.vacancies
 
     def filtered_by_requirement(self, key_word: str):
-        """Возвращает отфильтрованный по требованиям список объектов класса вакансий"""
+        """Возвращает отфильтрованный по ключевому слову в требованиях вакансии список объектов класса вакансий"""
 
         with open(self.filename, "r", encoding="utf-8") as file:
             vacancies = json.load(file)
