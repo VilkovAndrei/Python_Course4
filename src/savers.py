@@ -31,15 +31,14 @@ class JSONSaver(JobProcessing):
 
     def __init__(self, keyword):
         self.filename = os.path.join(ROOT_DIR, "data", keyword.title() + ".json").replace('\\', '/')
-        self.vacancies_json = []
         self.vacancies = []
 
     def insert(self, vacancies_json):
         """Записывает информацию в файл"""
-        self.vacancies_json = vacancies_json
+        self.vacancies = vacancies_json
 
         with open(self.filename, "w", encoding="utf-8") as file:
-            json.dump(self.vacancies_json, file, indent=4, ensure_ascii=False)
+            json.dump(self.vacancies, file, indent=4, ensure_ascii=False)
 
     def select(self):
         """Открывает для чтения информацию из файла.
@@ -61,14 +60,15 @@ class JSONSaver(JobProcessing):
 
         return self.vacancies
 
-    def filtered_by_requirement(self, key_word_req):
+    def filtered_by_requirement(self, key_word: str):
         """Возвращает отфильтрованный по требованиям список объектов класса вакансий"""
 
         with open(self.filename, "r", encoding="utf-8") as file:
             vacancies = json.load(file)
-        self.vacancies = [Vacancy(**x) for x in vacancies if key_word_req in x["requirement"]]
 
-        return self.vacancies
+        filtered_vacancies = [Vacancy(**x) for x in vacancies if key_word in x["requirement"]]
+
+        return filtered_vacancies
 
     def delete_info(self):
         """Удаляет информацию в json-файле с вакансиями"""

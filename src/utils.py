@@ -8,12 +8,12 @@ def user_interaction():
     keyword = input("Введите ключевое слово для фильтрации вакансий: ")
 
     """Создание экземпляров класса для работы с API сайтов с вакансиями"""
-    hh = HeadHunterAPI(keyword)
-    sj = SuperJobAPI(keyword)
+    hh = HeadHunterAPI(keyword=keyword)
+    sj = SuperJobAPI(keyword=keyword)
 
     """Получение вакансий с разных платформ"""
     for api in (hh, sj):
-        vacancies_json.extend(api.get_vacancies(pages_count=2))
+        vacancies_json.extend(api.get_vacancies(pages_count=10))
 
     connector = JSONSaver(keyword=keyword)
     connector.insert(vacancies_json=vacancies_json)
@@ -34,8 +34,8 @@ def user_interaction():
         elif user_command == "2":
             vacancies = connector.sorted_by_salary()
         elif user_command == "3":
-            key_word_req = input("Введите запрос по требованиям вакансий  >>> ")
-            vacancies = connector.filtered_by_requirement(key_word_req)
+            key_word = input("Введите ключевое слово по требованиям вакансий >>> ")
+            vacancies = connector.filtered_by_requirement(key_word)
         elif user_command == "4":
             connector.delete_info()
             continue

@@ -28,7 +28,6 @@ class HeadHunterAPI(EngineAPI):
             "per_page": 10,
             "page": int,
             "text": keyword,
-            "seach_field": "name",
             "only_with_salary": True,
             "area": area,
             "archived": False,

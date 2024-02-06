@@ -1,0 +1,866 @@
+[
+    {
+        "employer": "АФК, группа компаний",
+        "title": "Front-end разработчик",
+        "url": "https://api.hh.ru/vacancies/92757038?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 150000,
+        "requirement": "Большой бонус для нас: Понимание принципов адаптивной и кросс-браузерной <highlighttext>разработки</highlighttext> фронтенда. Опыт использования картографических библиотек, таких как Leaflet и..."
+    },
+    {
+        "employer": "IQ GROUP",
+        "title": "Стажер-Frontend Developer (Vue, React)",
+        "url": "https://api.hh.ru/vacancies/92733053?host=hh.ru",
+        "salary_from": 15000,
+        "salary_to": 30000,
+        "requirement": "Владеете базовыми знаниями о принципах построения Rest API. Возможность перенимать опыт у сильных <highlighttext>разработчиков</highlighttext>. Поднимите уровень владения JS до уровня..."
+    },
+    {
+        "employer": "Добропицца",
+        "title": "Frontend-разработчик Junior",
+        "url": "https://api.hh.ru/vacancies/92708140?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "requirement": "Знание адаптивной вёрстки. Знание способов взаимодействия с <highlighttext>бэкендом</highlighttext> (ajax/fetch) . Знание базовых команд для работы с Git. Понимание основ взаимодействия..."
+    },
+    {
+        "employer": "НТ Разработки",
+        "title": "Junior Java разработчик",
+        "url": "https://api.hh.ru/vacancies/92716800?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "requirement": "Уверенное знание java. Понимание основ работы web-приложения. Понимание основ алгоритмизации. Опыт работы с NoSQL хранилищами. Знакомство с Spring (Core..."
+    },
+    {
+        "employer": "АпТрейдер (UpTrader)",
+        "title": "Junior Python Backend Developer",
+        "url": "https://api.hh.ru/vacancies/92471522?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 80000,
+        "requirement": "Уверенное знание python. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL..."
+    },
+    {
+        "employer": "Real Deal",
+        "title": "Frontend-разработчик (React), Middle. Startup (Dubai)",
+        "url": "https://api.hh.ru/vacancies/92753297?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "requirement": "Опыт самостоятельной настройки Webpack. Опыт работы с <highlighttext>backend</highlighttext>. Опыт собственной <highlighttext>разработки</highlighttext> веб-приложения с нуля. Способность работать в команде и..."
+    },
+    {
+        "employer": "СТЕЛЛА",
+        "title": "Frontend разработчик junior",
+        "url": "https://api.hh.ru/vacancies/92671339?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "requirement": "Имеешь опыт работы с аналогичным функционалом. Владеешь навыками <highlighttext>разработки</highlighttext> логики пользовательского интерфейса. Понимаешь алгоритмы и особенности работы поисковых систем, а..."
+    },
+    {
+        "employer": "Мальгин Никита",
+        "title": "Junior Backend Developer",
+        "url": "https://api.hh.ru/vacancies/91666161?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": null,
+        "requirement": "Знание Python, Django, Django REST Framework. Плюсом будет знание Docker и ngnix."
+    },
+    {
+        "employer": "Блюменкрафт",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/92617402?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "requirement": "<highlighttext>Backend</highlighttext>: Python 3.7, pymongo, flask, pycades (CryptoPro), aiohttp. Database: MongoDB. Infrastructure: Ansible. ​​​​​​​Знание Python, опыт работы с реальными задачами. "
+    },
+    {
+        "employer": "Mayflower",
+        "title": "Senior Frontend Developer",
+        "url": "https://api.hh.ru/vacancies/92465638?host=hh.ru",
+        "salary_from": 5000,
+        "salary_to": null,
+        "requirement": "Profiling, debugging and optimization skills and experience (client/<highlighttext>server</highlighttext> <highlighttext>side</highlighttext>). Skills and experience with webpack, rollup application build systems, including..."
+    },
+    {
+        "employer": "Евромобайл",
+        "title": "Младший бэкенд-разработчик",
+        "url": "https://api.hh.ru/vacancies/92755320?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "requirement": "Знакомство с системой контроля версий Git. Опыт написания тестов. Опыт <highlighttext>разработки</highlighttext> в команде. С# (в т.ч. .NET 6, Entity..."
+    },
+    {
+        "employer": "ПИКАССО",
+        "title": "Backend-разработчик (Python)",
+        "url": "https://api.hh.ru/vacancies/92454497?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "requirement": "Знание Django и умение применять базовые алгоритмы. Опыт работы с базами данных (MySQL, PostgreSQL). Будет хорошо, если вы использовали NoSQL. "
+    },
+    {
+        "employer": "e-Comet",
+        "title": "Junior Backend Developer (Python и SQL)",
+        "url": "https://api.hh.ru/vacancies/92551827?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "requirement": "Высшее образование (можно неоконченное/неполное) технического ВУЗа последнего или предпоследнего курса. Логичный и структурированный подход к решению задач, способность аргументированно..."
+    },
+    {
+        "employer": "ФГБОУ ВО МГТУ им. Н.Э. Баумана",
+        "title": "Разработчик Python backend",
+        "url": "https://api.hh.ru/vacancies/92519276?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 180000,
+        "requirement": "Опыт <highlighttext>разработки</highlighttext> сервисов (Flask, Django, SQLAlchemy и др.). Опыт работы с различными хранилищами данных (MySQL, S3, Hadoop, NoSQL(ClickHouse)). "
+    },
+    {
+        "employer": "Сотка Эксперт",
+        "title": "HTML-верстальщик",
+        "url": "https://api.hh.ru/vacancies/92722534?host=hh.ru",
+        "salary_from": 75000,
+        "salary_to": null,
+        "requirement": "Умение работать с системами контроля версий (у нас Git). Опыт работы со сборкой Webpack. Опыт коммерческой <highlighttext>разработки</highlighttext> (от 2-х..."
+    },
+    {
+        "employer": "Система Бронирования",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92450419?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 174000,
+        "requirement": "Уверенное владение нативным JavaScript, TypeScript и фреймворком ReactJS. Отличные знания HTML, CSS. Понимание методологий FSD, Atomic и пр. "
+    },
+    {
+        "employer": "Радуга Вкуса",
+        "title": "Frontend-разработчик (удаленно)",
+        "url": "https://api.hh.ru/vacancies/92695304?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "requirement": "Знание JS-фреймов, предпочтительно React.js + Redux. Опыт интеграции фронта с RESTful API <highlighttext>backend</highlighttext>, HTML5, CSS3, Bootstrap, Git. "
+    },
+    {
+        "employer": "Hu:be",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92703938?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 230000,
+        "requirement": "Умение осваивать новое и разбираться со сложными задачами и новыми технологиями самостоятельно. Умение работать в команде, взаимодействовать с <highlighttext>бекенд</highlighttext>-<highlighttext>разработчиком</highlighttext>..."
+    },
+    {
+        "employer": "ФГБОУ ВО МГТУ им. Н.Э. Баумана",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92523640?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 160000,
+        "requirement": "Опыт <highlighttext>разработки</highlighttext> сервисов (Javascript, CSS, HTML, jQuery, GULP, NODE JS). Опыт работы с различными хранилищами данных (MySQL, S3, Hadoop..."
+    },
+    {
+        "employer": "IBLS",
+        "title": "Тестировщик ПО / QA engineer - Ручное тестирование",
+        "url": "https://api.hh.ru/vacancies/92755068?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 110000,
+        "requirement": "Опыт работы тестирования от 1 года вне учебных курсов, ОБЯЗАТЕЛЬНО. Умение документировать свои действия. Аккуратность, внимательность, обучаемость. Понимание процесса и..."
+    },
+    {
+        "employer": "Exemter",
+        "title": "Младший frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92465422?host=hh.ru",
+        "salary_from": 25000,
+        "salary_to": 75000,
+        "requirement": "Уверенные знания HTML и CSS, умение верстать на базовом уровне. Желателен, но необязателен опыт <highlighttext>разработки</highlighttext> на React, Angular и/или..."
+    },
+    {
+        "employer": "ЛИГРЕС",
+        "title": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/92547040?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "requirement": "Знал Python3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "employer": "WBPROD",
+        "title": "Backend разработчик Python",
+        "url": "https://api.hh.ru/vacancies/91664414?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 180000,
+        "requirement": "Глубокие знания и опыт работы с технологиями из нашего стека. (Python 3.11, FastApi, Celery, Asyncio, Aiohttp, Pytest. Docker, RabbitMQ). "
+    },
+    {
+        "employer": "OptimumPrice.ru",
+        "title": "Стажер-программист Python (backend)",
+        "url": "https://api.hh.ru/vacancies/92345293?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 30000,
+        "requirement": "Умение работать в Linux."
+    },
+    {
+        "employer": "Савченко Дмитрий Сергеевич",
+        "title": "Программист / Backend-разработчик (Junior / Junior + / Middle)",
+        "url": "https://api.hh.ru/vacancies/92581590?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 100000,
+        "requirement": "Обязательные знания html, css, js на начальном уровне, уверенные знания основ php, уверенные знания SQL. Опыт работы с MySQL, MongoBD..."
+    },
+    {
+        "employer": "enKod",
+        "title": "Junior backend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92361867?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": null,
+        "requirement": "Опыт работы с Go. Пройденный GoTour. Работа с git. Примеры проектов. Опыт создания HTTP-сервисов."
+    },
+    {
+        "employer": "ФГАНУ Центр информационных технологий и систем органов исполнительной власти",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92583410?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "requirement": "Приветствуется опыт написания тестов с применением Jest, react-testing-library, а также своего mock-сервера (при отсутствии реализованного <highlighttext>бэкенда</highlighttext>)."
+    },
+    {
+        "employer": "Гальченко Тимофей Валерьевич",
+        "title": "Бэкенд-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/92708287?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 110000,
+        "requirement": "1) 1+ год опыта работы в качестве <highlighttext>бэкенд</highlighttext>-<highlighttext>разработчика</highlighttext> (Python). 2) Опыт в <highlighttext>разработке</highlighttext> чат-ботов на aiogram(несколько..."
+    },
+    {
+        "employer": "Пшеничная Анна",
+        "title": "Frontend разработчик senior",
+        "url": "https://api.hh.ru/vacancies/92698810?host=hh.ru",
+        "salary_from": 400000,
+        "salary_to": 600000,
+        "requirement": "Самостоятельность. Коммуникабельность. Отличное знание фреймворка Next.js. Бизнес ориентированность. Понимание принципов работы SEO и умение их применять."
+    },
+    {
+        "employer": "Exemter",
+        "title": "Младший backend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92465606?host=hh.ru",
+        "salary_from": 25000,
+        "salary_to": 75000,
+        "requirement": "Базовые знания одного из языков программирования — Python, Java, C#, PHP, Ruby, Go или JavaScript. У нас есть микросервисы почти на..."
+    },
+    {
+        "employer": "Intelligent Analytics",
+        "title": "Junior Backend разработчик",
+        "url": "https://api.hh.ru/vacancies/92680755?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 100000,
+        "requirement": "Умение быстро находить решения для большого спектра задач. Умение прототипировать (создавать фундамент для <highlighttext>разработки</highlighttext>, продумывая нюансы и детали до полной..."
+    },
+    {
+        "employer": "Agile Digital Lab",
+        "title": "Web-программист (Junior)",
+        "url": "https://api.hh.ru/vacancies/80127090?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 50000,
+        "requirement": "Имеешь высшее профильное образование. Верстал. Работал с PHP в университете или на домашних проектах."
+    },
+    {
+        "employer": "Мой Софт",
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://api.hh.ru/vacancies/92609190?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. "
+    },
+    {
+        "employer": "Мой Софт",
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://api.hh.ru/vacancies/92609189?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. "
+    },
+    {
+        "employer": "ЭС-АЙ Безопасность",
+        "title": "Junior BackEnd Developer",
+        "url": "https://api.hh.ru/vacancies/92088186?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 130000,
+        "requirement": "Успешное участие в олимпиадах по программированию. Математическая подготовка: численные методы, линейная алгебра, статистика, методы оптимизации. Знание PHP."
+    },
+    {
+        "employer": "Photo Point",
+        "title": "Pre-middle Python Developer",
+        "url": "https://api.hh.ru/vacancies/91793344?host=hh.ru",
+        "salary_from": 75000,
+        "salary_to": 100000,
+        "requirement": "Хорошее знакомство с процессами и методологиями гибкой <highlighttext>разработки</highlighttext> (Scrum). Отличные коммуникативные навыки. Умение справляться со стрессом. Продуктовое мышление. "
+    },
+    {
+        "employer": "Чекай",
+        "title": "Дизайнер UI/UX",
+        "url": "https://api.hh.ru/vacancies/92667672?host=hh.ru",
+        "salary_from": 130000,
+        "salary_to": 150000,
+        "requirement": "Знание HTML и CSS. Понимание основ адаптивной вёрстки. Понимание принципов Frontend & <highlighttext>Backend</highlighttext> <highlighttext>разработки</highlighttext>. Уверенное владение Sketch и Figma. "
+    },
+    {
+        "employer": "Мой Софт",
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://api.hh.ru/vacancies/92609188?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. "
+    },
+    {
+        "employer": "Четыре Лапы",
+        "title": "QA Engineer / Тестировщик Веб-приложений (удаленно)",
+        "url": "https://api.hh.ru/vacancies/92454522?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 150000,
+        "requirement": "Опыт <highlighttext>разработки</highlighttext> тест-планов, чек-листов. ∙ Уметь четко и понятно формулировать задачи и дефекты. Будет плюсом: - Опыт <highlighttext>разработки</highlighttext> ПО или..."
+    },
+    {
+        "employer": "Мостотрест136",
+        "title": "Программист-разработчик",
+        "url": "https://api.hh.ru/vacancies/92704840?host=hh.ru",
+        "salary_from": 350000,
+        "salary_to": 550000,
+        "requirement": "Опыт <highlighttext>разработки</highlighttext> коммерческих проектов Node.js от 3-х лет. Отличное знание JavaScript/TypeScript. Знание основных <highlighttext>бэкенд</highlighttext> фреймворков. Знания теории, опыт..."
+    },
+    {
+        "employer": "Мой Софт",
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://api.hh.ru/vacancies/92609186?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. "
+    },
+    {
+        "employer": "Digital Security",
+        "title": "Junior QA Engineer / Младший Инженер контроля качества (IT)",
+        "url": "https://api.hh.ru/vacancies/92462489?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "requirement": "Готовность выполнить тестовое задание. Опыт работы на аналогичной должности. Успешно пройденные профильные курсы. Знание английского языка на уровне не ниже..."
+    },
+    {
+        "employer": "Hammer Systems",
+        "title": "Junior/Middle Frontend разработчик (React)",
+        "url": "https://api.hh.ru/vacancies/92031468?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 70000,
+        "requirement": "Опыт работы c RESTful API. Наличие завершенных проектов. Знание Git. Умение разбираться в чужом коде. Опыт <highlighttext>разработки</highlighttext> админ панелей. "
+    },
+    {
+        "employer": "Инфосервис",
+        "title": "PHP-разработчик",
+        "url": "https://api.hh.ru/vacancies/91911025?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "requirement": "Внимательность и крайняя дотошность. Серверный рендеринг, jQuery, никакого SPA, никакого React или аналогов. Всё по старинке."
+    },
+    {
+        "employer": "Vera Realty",
+        "title": "Front-end разработчик / Верстальщик",
+        "url": "https://api.hh.ru/vacancies/92124147?host=hh.ru",
+        "salary_from": 65000,
+        "salary_to": 70000,
+        "requirement": "Иметь базовые представления о том, как работает <highlighttext>backend</highlighttext>. Работа с GitHub. Тестирование вёрстки в разных клиентах, устройствах. Установление и контроль..."
+    },
+    {
+        "employer": "Техно Медицина",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92377234?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "requirement": "В навыки специалиста входят, знания одного из фреймворков проектирования (vue.js, angular, react). Умение связывать <highlighttext>бэкенд</highlighttext> с фронтендом (при помощи rest..."
+    },
+    {
+        "employer": "Газпром межрегионгаз инжиниринг",
+        "title": "Java-разработчик/Java-Developer",
+        "url": "https://api.hh.ru/vacancies/92414582?host=hh.ru",
+        "salary_from": 115000,
+        "salary_to": null,
+        "requirement": "Опыт <highlighttext>разработки</highlighttext> интеграций и сервисов. Уверенные знания реляционных СУБД, SQL. Опыт использования баз NoSQL. Опыт fullstack <highlighttext>разработки</highlighttext>. Опыт использования микросервисной..."
+    },
+    {
+        "employer": "Мой Софт",
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://api.hh.ru/vacancies/92609187?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. "
+    },
+    {
+        "employer": "Lion Recruitment",
+        "title": "Premiddle QA Engineer",
+        "url": "https://api.hh.ru/vacancies/92710754?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 140000,
+        "requirement": "Опыт работы в тестировании от 1 года. - Знание техник тест-дизайна и умение применять их на практике. - Знание SQL на..."
+    },
+    {
+        "employer": "Вэбест",
+        "title": "HTML-верстальщик (front-end разработчик)",
+        "url": "https://api.hh.ru/vacancies/92359815?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 60000,
+        "requirement": "Опыт работы с Bitrix. Опыт работы с Vue, версия 2/3."
+    },
+    {
+        "employer": "Программные Системы",
+        "title": "Junior Backend-разработчик",
+        "url": "https://api.hh.ru/vacancies/91849357?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": null,
+        "requirement": "JavaScript. React для web. Внезапно RUST. CI / Feature Flags. Чего ждём от вас? Умение программировать на JavaScript. Слышал слово NodeJS. "
+    },
+    {
+        "employer": "Десайд Карьера",
+        "title": "Junior React Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92311428?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 90000,
+        "requirement": "Опыт работы с React и понимание его основных принципов. - Основное знание HTML, CSS и JavaScript. - Опыт работы с Git и..."
+    },
+    {
+        "employer": "Росэксперт",
+        "title": "Программист-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/92402064?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "requirement": "Опыт промышленного парсинга. Опыт программирования на Python. Опыт работы с Django и DRF. Опыт работы с базами данных, желательно PostgreSQL. "
+    },
+    {
+        "employer": "UrbanMedic",
+        "title": "Frontend разработчик (React)",
+        "url": "https://api.hh.ru/vacancies/92514886?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 90000,
+        "requirement": "Опыт работы с React.js и Redux. Знание основ ES6 и TypeScript. Опыт работы с HTML, CSS, SCSS. "
+    },
+    {
+        "employer": "Технология",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/91826294?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": null,
+        "requirement": "Опыт работы с JavaScript/ECMAScript. Опыт работы с CSS3, HTML5, SCSS;. Опыт работы с React/Redux. "
+    },
+    {
+        "employer": "Nti.team",
+        "title": "Junior Android разработчик на Kotlin",
+        "url": "https://api.hh.ru/vacancies/92556951?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": null,
+        "requirement": "Понимание REST API для взаимодействия с <highlighttext>backend</highlighttext> частью системы. Наличие практического (можно учебного) опыта <highlighttext>разработки</highlighttext> под Android. В качестве тестового..."
+    },
+    {
+        "employer": "ФИНАМ",
+        "title": "Стажер QA",
+        "url": "https://api.hh.ru/vacancies/91301598?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": null,
+        "requirement": "Освоить базовые принципы автоматизированного тестирования."
+    },
+    {
+        "employer": "Mindbox",
+        "title": "C# developer junior / middle (.net, full-stack / back-end)",
+        "url": "https://api.hh.ru/vacancies/76709182?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 250000,
+        "requirement": "Опыт веб <highlighttext>разработки</highlighttext> с помощью C# и SQL в production. Чистый код, шаблоны архитектуры."
+    },
+    {
+        "employer": "ContextUs",
+        "title": "Junior Backend Developer (Младший программист)",
+        "url": "https://api.hh.ru/vacancies/91122515?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "requirement": "SQL, опыт работы с СУБД. Умение работать в команде. Самостоятельность. Опыт <highlighttext>разработки</highlighttext> на PHP и/или GO. Опыт работы с..."
+    },
+    {
+        "employer": "ЕТС груп",
+        "title": "Java Script (Frontend / Backend)",
+        "url": "https://api.hh.ru/vacancies/92538281?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 180000,
+        "requirement": "Коммерческий опыт работы с JavaScript/TypeScript, Angular, Nodejs не менее 1 года. Уверенные знания и опыт с HTML5, CSS..."
+    },
+    {
+        "employer": "МФК ВЭББАНКИР",
+        "title": "QA engineer",
+        "url": "https://api.hh.ru/vacancies/91939129?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 180000,
+        "requirement": "Чёткое понимание процесса тестирования, его целей, задач и места в цикле <highlighttext>разработки</highlighttext>. Самостоятельность, умение принимать решения в рамках своей зоны..."
+    },
+    {
+        "employer": "Технологии защиты, ООО (проект Pryaniky.com)",
+        "title": "Junior разработчик .NET",
+        "url": "https://api.hh.ru/vacancies/92012054?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": null,
+        "requirement": "Опыт <highlighttext>разработки</highlighttext> на С# от 1 года. Обязательно: Знание C# и .NET Core. Знание основных структур данных и алгоритмов. Обучаемость. "
+    },
+    {
+        "employer": "KTE Labs",
+        "title": "Программист-разработчик Java ( Junior)",
+        "url": "https://api.hh.ru/vacancies/92199476?host=hh.ru",
+        "salary_from": 125000,
+        "salary_to": 125000,
+        "requirement": "Высшее профильное (IT) образование. — Опыт <highlighttext>разработки</highlighttext> на Java. — Опыт работы с Spring Framework, JPA. — Опыт работы с реляционными СУБД (PostgreSQL..."
+    },
+    {
+        "employer": "Софт Медиа Груп",
+        "title": "Frontend Developer (React)",
+        "url": "https://api.hh.ru/vacancies/91286907?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "requirement": "Опыт в коммерческой <highlighttext>разработке</highlighttext> от 1,5 года. Знание JS (ES 6+). Знание HTML/CSS. Умение работать с React..."
+    },
+    {
+        "employer": "Ingate",
+        "title": "Frontend developer (React)",
+        "url": "https://api.hh.ru/vacancies/92566171?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "requirement": "Желание и умение работать в команде. Будет плюсом: Опыт <highlighttext>Backend</highlighttext>-<highlighttext>разработки</highlighttext> на C#/.Net. Опыт работы с Express, Nextjs. "
+    },
+    {
+        "employer": "Четыре Лапы",
+        "title": "QA Engineer / Тестировщик Веб-приложений (удаленно)",
+        "url": "https://api.hh.ru/vacancies/91632087?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 150000,
+        "requirement": "Опыт <highlighttext>разработки</highlighttext> тест-планов, чек-листов. ∙ Уметь четко и понятно формулировать задачи и дефекты. Будет плюсом: - Опыт <highlighttext>разработки</highlighttext> ПО или..."
+    },
+    {
+        "employer": "Бизнес Интеллект",
+        "title": "Разработчик C# (.NET)",
+        "url": "https://api.hh.ru/vacancies/91481175?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 140000,
+        "requirement": "Коммерческий опыт <highlighttext>разработки</highlighttext> на платформе .NET 5 и более актуальных версий. Опыт <highlighttext>разработки</highlighttext> микросервисных приложений. Опыт работы с ORM(EF). "
+    },
+    {
+        "employer": "Code Dunes Solution",
+        "title": "Frontend - разработчик",
+        "url": "https://api.hh.ru/vacancies/92340849?host=hh.ru",
+        "salary_from": 110000,
+        "salary_to": 130000,
+        "requirement": "Опыт написания UI - библиотеки или единичных компонентов. Понимание принципов взаимодействия с <highlighttext>backend</highlighttext> <highlighttext>разработчиками</highlighttext>. Опыт использования git в команде."
+    },
+    {
+        "employer": "Nti.team",
+        "title": "Стажер Back-end разработчика (php, python, c#)",
+        "url": "https://api.hh.ru/vacancies/89753481?host=hh.ru",
+        "salary_from": 15000,
+        "salary_to": 30000,
+        "requirement": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной <highlighttext>разработки</highlighttext>. Желательно профильное высшее образование по <highlighttext>разработке</highlighttext> (если..."
+    },
+    {
+        "employer": "Maslov.ai",
+        "title": "Backend Engineer - Middle + / Senior",
+        "url": "https://api.hh.ru/vacancies/91440786?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 400000,
+        "requirement": "Умение писать SQL-запросы на диалект PostgreSQL без ORM и шпаргалок. - Понимание большой части roadmap.sh/<highlighttext>backend</highlighttext>. Будет плюсом: - Опыт работы..."
+    },
+    {
+        "employer": "Кадвайс-Н",
+        "title": "Junior C# Developer",
+        "url": "https://api.hh.ru/vacancies/92309508?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 100000,
+        "requirement": "C# / .NET 6. WPF. NUnit. CI на TeamCity. Мы ожидаем знание алгоритмов, ООП и дизайна на уровне университета. "
+    },
+    {
+        "employer": "СИКСХЭНДС",
+        "title": "Junior Backend-разработчик (Node.js)",
+        "url": "https://api.hh.ru/vacancies/92513375?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 100000,
+        "requirement": "Умение работать с Node.js. Желательно знание Nest.js. Умение работать с MySQL / PostgreSQL, REST API."
+    },
+    {
+        "employer": "Бубль Гум, Розничная сеть",
+        "title": "Тестировщик",
+        "url": "https://api.hh.ru/vacancies/91512735?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 110000,
+        "requirement": "Знание методологии и видов тестирования. Понимание структуры ПО (<highlighttext>BackEnd</highlighttext>, FrontEnd, HTML/CSS, API). Понимание основ проектного управления."
+    },
+    {
+        "employer": "Терра, Управляющая компания",
+        "title": "Инженер - программист (начинающий специалист)",
+        "url": "https://api.hh.ru/vacancies/91925530?host=hh.ru",
+        "salary_from": 75000,
+        "salary_to": null,
+        "requirement": "Компания Терра приглашает на работу начинающего специалиста с базовыми знаниями Sql, Python, Golang и желанием развиваться области <highlighttext>backend</highlighttext> программирования. "
+    },
+    {
+        "employer": "Электронная медицина",
+        "title": "Разработчик Python",
+        "url": "https://api.hh.ru/vacancies/80736556?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 80000,
+        "requirement": "Опыт проектирования, поддержки и <highlighttext>разработки</highlighttext> серверных компонентов на Python. Знание Microsoft SQL server и PostgreSql. Опыт работы с Git. "
+    },
+    {
+        "employer": "ВЕБ Инфраструктура",
+        "title": "Software Developer Python",
+        "url": "https://api.hh.ru/vacancies/92696470?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 200000,
+        "requirement": "Опыт работы с no-sql хранилищами данных Redis. Опыт <highlighttext>разработки</highlighttext> под Linux, знание командной строки Linux или OS X. "
+    },
+    {
+        "employer": "Цитрус",
+        "title": "Frontend Developer / WEB (Middle)",
+        "url": "https://api.hh.ru/vacancies/91289309?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 180000,
+        "requirement": "Представление об архитектуре веб-приложений. Умение разбираться в чужом коде. Опыт коммерческой <highlighttext>разработки</highlighttext> в команде от 1 года. Техническое образование. "
+    },
+    {
+        "employer": "Fersol",
+        "title": "Python developer (junior+)",
+        "url": "https://api.hh.ru/vacancies/91580175?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "requirement": "Опыт работы в качестве <highlighttext>backend</highlighttext> <highlighttext>разработчика</highlighttext> от 1 года. Уверенное владение Python. Знание классических алгоритмов и структур данных. "
+    },
+    {
+        "employer": "Доктор на работе",
+        "title": "Специалист по тестированию",
+        "url": "https://api.hh.ru/vacancies/92403834?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 80000,
+        "requirement": "Большим плюсом будет (но не обязательно):  JS, HTML, CSS.  TeamCity, Git, REST.  Базовые знания SQL.  принципы UXD.  знание CI/CD."
+    },
+    {
+        "employer": "Information Systems Design",
+        "title": "Frontend-разработчик (junior)",
+        "url": "https://api.hh.ru/vacancies/92123636?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "Профилирование, рефакторинг и оптимизация разработанных веб-приложений. Совместная работа с дизайнером, продактом, <highlighttext>бэкенд</highlighttext>- <highlighttext>разработчиками</highlighttext> и тестировщиками. Понимание и применение юнит..."
+    },
+    {
+        "employer": "IT Pro",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92000296?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "requirement": "TypeScript, JavaScript, React, Rest API. <highlighttext>Back</highlighttext>-<highlighttext>end</highlighttext> преимущественно на .NET 6. Имеете опыт коммерческой <highlighttext>разработки</highlighttext> на TypeScript, JavaScript 1-2..."
+    },
+    {
+        "employer": "Первый ОФД",
+        "title": "Тестировщик Fullstack / QA",
+        "url": "https://api.hh.ru/vacancies/92274824?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "requirement": "Функциональное и регрессионное тестирование <highlighttext>бэкэнда</highlighttext> и фронтэнда. Практический опыт программирования на Java или Scala. Понимание общих принципов <highlighttext>разработки</highlighttext> и тестирования. "
+    },
+    {
+        "employer": "Эврика Би Пи О",
+        "title": "Java разработчик (удалённо)",
+        "url": "https://api.hh.ru/vacancies/92480681?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "requirement": "Опыт работы с Linux (подключиться, посмотреть место, посмотреть логи, перезапустить службу). Опыт работы <highlighttext>программистом</highlighttext> Java от 2 лет на одном..."
+    },
+    {
+        "employer": "Секвения",
+        "title": "Backend разработчик",
+        "url": "https://api.hh.ru/vacancies/92738701?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "SQL и PostgreSQL."
+    },
+    {
+        "employer": "ADAMAS",
+        "title": "QA инженер / Тестировщик",
+        "url": "https://api.hh.ru/vacancies/91653417?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 150000,
+        "requirement": "Много опыта тестирования <highlighttext>backend</highlighttext>. Опыт работы с Postman. Очень поможет понимание электронной коммерции. Опыт интеграционного тестирования: внешние и внутренние интеграции..."
+    },
+    {
+        "employer": "ФОДЖИН",
+        "title": "Python Developer",
+        "url": "https://api.hh.ru/vacancies/92151346?host=hh.ru",
+        "salary_from": 45000,
+        "salary_to": null,
+        "requirement": "...CI) и зачем они нужны. Готов вносить свою лепту в принятии решений на проекте и активно участвовать в его <highlighttext>разработке</highlighttext>."
+    },
+    {
+        "employer": "SEOTLT",
+        "title": "Frontend developer (Junior / Middle)",
+        "url": "https://api.hh.ru/vacancies/92062324?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": null,
+        "requirement": "Знание HTML5 и CSS3. Кроссбраузерная и адаптивная верстка. Опыт <highlighttext>разработки</highlighttext> библиотек UI компонентов. Препроцессоры LESS / SASS. "
+    },
+    {
+        "employer": "ШЕСТАКОВ АЛЕКСАНДР ВЛАДИМИРОВИЧ",
+        "title": "Junior PHP программист",
+        "url": "https://api.hh.ru/vacancies/92761124?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": null,
+        "requirement": "Базовые знания PHP, SQL. Знание фреймворка Laravel. Базовые знания HTML, CSS. Базовые знания git. Знание фреймворка Yii 2. "
+    },
+    {
+        "employer": "TextMagic",
+        "title": "Senior Back-end разработчик (PHP 7, Symfony 5, PostgreSQL)",
+        "url": "https://api.hh.ru/vacancies/91768413?host=hh.ru",
+        "salary_from": 5000,
+        "salary_to": null,
+        "requirement": "Отличные знания и опыт с большинством технологий, перечисленных выше. Чёткое понимание того, как устроена архитектура веб приложения, понимание принципов работы..."
+    },
+    {
+        "employer": "Сметтер",
+        "title": "Frontend Developer (Фронтенд разработчик)",
+        "url": "https://api.hh.ru/vacancies/92076944?host=hh.ru",
+        "salary_from": 130000,
+        "salary_to": null,
+        "requirement": "...коммерческой <highlighttext>разработки</highlighttext> не менее 2х лет. Отличные практические знания, в т.ч. в организации рабочего процесса и методиках <highlighttext>разработки</highlighttext>. "
+    },
+    {
+        "employer": "Первый ОФД",
+        "title": "Project manager",
+        "url": "https://api.hh.ru/vacancies/92481782?host=hh.ru",
+        "salary_from": 220000,
+        "salary_to": null,
+        "requirement": "Опыт работы в роли менеджера проекта 3+. Предметная область: <highlighttext>разработка</highlighttext> ПО и консалтинг. Знание основных принципов Agile, опыт управления..."
+    },
+    {
+        "employer": "Selsup",
+        "title": "Project manager (удаленная работа)",
+        "url": "https://api.hh.ru/vacancies/92545498?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "requirement": "Опыт от 1 года в e-commerce. Горящие глаза и желание развиваться в этой сфере. Структурность. Умение находить общий язык..."
+    },
+    {
+        "employer": "А17",
+        "title": "Разработчик Backend",
+        "url": "https://api.hh.ru/vacancies/91589925?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 300000,
+        "requirement": "ОБЯЗАТЕЛЕН опыт Web или мобильной <highlighttext>разработки</highlighttext> от 3-х лет. Английский на уровне от B2 будет являться преимуществом. "
+    },
+    {
+        "employer": "Сметтер",
+        "title": "Тестировщик ПО (QA Engineer)",
+        "url": "https://api.hh.ru/vacancies/92077001?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": null,
+        "requirement": "Опыт работы в коммерческих проектах обязателен. Опыт тестирования web-приложений (frontend & <highlighttext>backend</highlighttext>). Опыт тестирования мобильных приложений (iOS & Android). "
+    },
+    {
+        "employer": "ПроКонтекст",
+        "title": "Junior Backend Developer (Младший программист)",
+        "url": "https://api.hh.ru/vacancies/90024969?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "requirement": "SQL, опыт работы с СУБД. Умение работать в команде. Самостоятельность. Опыт <highlighttext>разработки</highlighttext> на PHP и/или GO. Опыт работы с..."
+    },
+    {
+        "employer": "Spider Group",
+        "title": "Backend-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/91620172?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 160000,
+        "requirement": "Коммерческий опыт программирования на Python от 2 лет. Опыт работы с Django. Опыт работы с облачными сервисами(AWS, Google, Yandex..."
+    },
+    {
+        "employer": "Digital Development One",
+        "title": "Backend разработчик",
+        "url": "https://api.hh.ru/vacancies/92581896?host=hh.ru",
+        "salary_from": 130000,
+        "salary_to": null,
+        "requirement": "Разрабов, которые любят разрабатывать, решать нетривиальные задачи и готовы возлагать на свои плечи тяжкое бремя ответственности, под нелегким гнетом Дедлайнов. "
+    },
+    {
+        "employer": "Анвио Парк",
+        "title": "Frontend программист",
+        "url": "https://api.hh.ru/vacancies/91939379?host=hh.ru",
+        "salary_from": 250000,
+        "salary_to": null,
+        "requirement": "Глубокое понимание TypeScript, React, styled-components. Опыт проектирования комплексной системы для будущей комфортной поддержки и масштабирования. Хорошее понимание устройства движка..."
+    },
+    {
+        "employer": "Halsa",
+        "title": "Middle Backend Developer (Python)",
+        "url": "https://api.hh.ru/vacancies/90329992?host=hh.ru",
+        "salary_from": 200000,
+        "salary_to": null,
+        "requirement": "Опыт интеграции с сторонними сервисами (платежные системы, транспортные и аналитические системы). Будет плюсом: Опыт <highlighttext>разработки</highlighttext> административных панелей и приватных API. "
+    },
+    {
+        "employer": "АЛЬБАТРО",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/92125977?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "requirement": "Знание других фреймворков и библиотек для <highlighttext>разработки</highlighttext> веб-приложений. Опыт работы с Git и системами контроля версий. Опыт оптимизации производительности..."
+    },
+    {
+        "employer": "ГОРОДРАБОТ.РУ",
+        "title": "Backend PHP программист уровня middle",
+        "url": "https://ioshkar-ola.superjob.ru/vakansii/backend-php-programmist-urovnya-middle-44316196.html",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "requirement": "Наш агрегатор вакансий - один из крупнейших по посещаемости среди сайтов по поиску работы в России. Объединяя вакансии с сотен сайтов, мы помогаем людям найти подходящую работу, существенно сэкономив время и нервы.\nРазработка началась в 2014 году и до сих пор проект активно развивается и растет. Сейчас запускаемся в других странах. Поэтому ищем отличных программистов в нашу команду!\nЧем предстоит заниматься:\n• Поддерживать и развивать существующие решения.\n• Разрабатывать новые проекты\n• Проводить код-ревью\n• Писать функциональные и юнит-тесты\nС вас:\n• Уверенное знание PHP\n• Знание ООП, шаблонов проектирования и умение применять знания на практике\n• Опыт работы с php-фреймворками Yii2, Laravel\n• Базовые знания HTML, CSS, JS\n• Умение работать с Git\n• Знание MySQL на хорошем уровне, умение писать и оптимизировать сложные запросы\n• Опыт работы с полнотекстовым поиском (Sphinx, ManticoreSearch, ElasticSearch)\n• Работа с ОС Linux на уровне продвинутого пользователя.\nБудет плюсом:\n• Владение английским на уровне чтения документации\n• Опыт написания API\n• Опыт работы с Docker, Vagrant, Ansible\n• Умение и практический опыт написания тестов (PHPUnit, Codeception и тд)\nС нас:\n• Оформление по ТК РФ, оплачиваемый больничный, отпуск\n• Минимум бюрократии\n• Выплаты 2 раза в месяц\n• Оплачиваемые курсы\n• Отличный коллектив\n• Работа 5/2 в уютном офисе на набережной\nНаш стек: PHP 7.4, ClickHouse, JavaScript, MySQL, Redis, Memcached, jQuery, Git, ManticoreSearch, Docker, Vagrant, Yii2, Laravel.\nООО \"ГородРабот.ру\" является аккредитованной IT организацией.\n\nЖдем примеры вашего кода!"
+    },
+    {
+        "employer": "АО ИРКОС",
+        "title": "Программист Delphi (senior)",
+        "url": "https://voronezh.superjob.ru/vakansii/programmist-delphi-48477093.html",
+        "salary_from": 140000,
+        "salary_to": null,
+        "requirement": "Компания ИРКОС, один из ведущих производителей программно-аппаратных систем радиомониторинга в России, ищет программиста Delphi (уровня senior) для поддержки и развития существующего программного обеспечения.\nОбязанности:\n• сопровождение и поддержка линейки программных продуктов, разработанных для ОС Windows (7 – 11), включающих frontend-часть (GUI-приложения) и backend-компоненты (транспорт, сервисы, узлы, драйверы);\n• сопровождение технической документации во внутреннем wiki-формате.\nТребования к квалификации:\n• отличное знание Delphi (Object Pascal), опыт работы в средах Borland Delphi 5, BDS2010, Embarcadero RAD Studio XE4;\n• высшее техническое образование;\n• глубокое понимание процесса разработки приложений под Windows (WinAPI, Services, Messages);\n• опыт работы с сетевыми протоколами (TCP, UDP), знание websocket;\n• опыт командной разработки от 5 лет;\n• понимание работы БД, опыт работы с СУБД DBISAM2, DBISAM4, Firebird 1.6, SQLite 3;\n• опыт работы с системами контроля версий (Mercurial, git);\n• умение разбираться в чужом коде;\n• умение писать понятный аккуратный код;\n• технический английский (А2).\nБудет плюсом:\n• опыт работы в области цифровой обработки сигналов;\n• знание и опыт работы с библиотеками IPP, NSP, TBB;\n• знание и опыт работы с картографией ГИС Панорама 11;\n• опыт работы с COM-objects, SNMP;\n• С++11;\n• работа в командной строке linux-based OS.\nУсловия работы:\n• размер заработной платы определяется по результатам собеседования;\n• трудоустройство по ТК (бессрочный трудовой договор, полностью белая зарплата, оплачиваемые отпуска и больничные);\n• работа в офисе (5/2);\n• гибкий график;\n• испытательный срок 2 месяца;\n• ДМС;\n• офис с бесплатной парковкой;\n• оплачиваемое обучение на курсах повышения квалификации;\n• бесплатный чай/кофе, комната отдыха с теннисным столом и спортзалом.\n• Адрес: Воронежская область, Воронеж, Рабочий проспект\nДополнительные преимущества:\n• ДМС\n• Парковка\n• Подарки детям на праздники\n• Зоны отдыха"
+    },
+    {
+        "employer": "Интегрум",
+        "title": "Backend-разработчик .NET (C#)",
+        "url": "https://www.superjob.ru/vakansii/backend-razrabotchik-47207277.html",
+        "salary_from": null,
+        "salary_to": null,
+        "requirement": "Чем предстоит заниматься:\n• Предстоит поддерживать работающий и разрабатывать новый функционал бэкенд части информационно-аналитической системы (загрузка данных из множества источников, поиск по ним и отображение в веб интерфейсе).\nОбязательны:\n• Опыт разработки в команде,\n• Знание и опыт разработки на C#,\n• Умение работать с SQL (типы данных, проектирование схемы, нормализация БД, понимание индексов, простая оптимизация запросов, понимание транзакционности)\n• Опыт работы с любой ORM\n• Умение работать с LINQ\n• Умение работать с форматами XML и JSON\n• Хорошее понимание принципов работы веб-приложений\n• Понимание принципов разработки API\n• Опыт работы с любой системой контроля версий (TFS/Git).\n• Большим плюсом будет опыт фронтенд разработки (React, Angular, вёрстка).\n• Мы используем: .Net Framework 4.5+, MS SQL Server, TFS, Linq2db для доступа к БД.\nУсловия:\n• Компактная команда разработки, отсутствие бюрократии, множество интересных задач. Мы ищем бэкенд-разработчика среднего уровня (т.е, с некоторым опытом разработки на указанном стеке технологий), готового взяться за реальные задачи.\n• На время испытательного срока предполагается только формат работы в офисе (ближайшие станции метро Калужская и Новые Черёмушки), далее возможна удалённая работа (по согласованию)."
+    },
+    {
+        "employer": "КуулКлевер",
+        "title": "PHP-программист",
+        "url": "https://nn.superjob.ru/vakansii/php-programmist-43062157.html",
+        "salary_from": null,
+        "salary_to": null,
+        "requirement": "КуулКлевер Лаб- это цифровая команда КуулКлевер, разрабатывающая собственные уникальные IT-технологии, которые помогают контролировать качество продуктов, максимально быстро доставлять их с производства покупателю, обеспечивать современный сервис продаж как offline так и online, и оперативно, персонально взаимодействовать с клиентами.\n\nМы ждем в команду квалифицированного PHP-разработчика, который займется разработкой и поддержкой существующих-интернет проектов компании, а также примет активное участие в новых.\nНаш стек: PHP, Symfony, Node js, MySQL.\nОсновные задачи:\n• Разработка и осуществление сопровождения backend мобильного приложения, web-сервисов\n• Интеграция с внутренними сервисами компаний (CRM‚ ERP‚ продукты 1С и пр.)\nТребования по опыту работы и знаниям:\n• Уверенно знаете PHP (желательно знание фреймворка Symfony)\n• СУБД MySQL : join, subquery, агрегирующие функции, группировки, транзакции, индексы, опыт оптимизации запросов, проектирование БД\n• Здорово, если знаете Node.js\n• Имеете опыт проектирования API\n• Git, работа с версиями\n• Умеете читать и вносить изменения в чужой код\n• Плюсом будет опыт использования RabbitMQ, Elasticsearch\nМы предлагаем следующие условия:\n• Минимум бюрократии, максимум полезных задач\n• Официальное оформление: полностью «белая» з/п; все социальные гарантии\n• Уровень дохода готовы обсуждать индивидуально\n• Форматы работы: гибрид\\ в офисе\n• Офис: Бугров Бизнес Парк (бесплатная парковка)\n• Полная занятость, 5/2\n• Оплата корпоративной сотовой связи, внутренние бонусы"
+    },
+    {
+        "employer": "Геомакс Финанс",
+        "title": "Разработчик мобильных приложений backend",
+        "url": "https://www.superjob.ru/vakansii/razrabotchik-mobilnyh-prilozhenij-backend-48540710.html",
+        "salary_from": 60000,
+        "salary_to": 150000,
+        "requirement": "Компания Geomax приглашает в свою команду активного, опытного разработчика мобильных приложений на Android и iOS так же вы можете откликнуться если есть вы разрабатываете сайты и личные кабинете.\nОбязанности:\n• Разработка и поддержка мобильных приложений на Android и iOS или бэкэнда;\n• Работа c API, создание бэкэнда;\n• Оптимизация кода, улучшение производительности;\n• Участие в обсуждении и реализации идей, повышающих конкурентоспособность продукта.\nТребования:\n• Опыт разработки мобильных приложений на Android и iOS\nУсловия:\n• Хороший доход;\n• Дружный коллектив профессионалов;\n• Гибкий график работы;\n• Возможность карьерного роста и профессионального развития;\n• Если Вам интересна данное предложение и Вы готовы работать в энергичной, динамичной и дружной команде, пришлите Ваше резюме и портфолио на email. Мы ждем именно Вас!"
+    },
+    {
+        "employer": "ЕвроАвто",
+        "title": "Web-разработчик (backend)",
+        "url": "https://spb.superjob.ru/vakansii/web-razrabotchik-41964533.html",
+        "salary_from": 100000,
+        "salary_to": null,
+        "requirement": "Ищем талантливого Backend разработчика с опытом работы на коммерческих проектах, который станет частью команды разработки портала EuroAuto и других проектов компании.\nИспользуемый стек технологий:\n- PHP 7.4 (Silex, Kohana, Laravel, Symfony);\n- Шаблонизатор Twig;\n- Python;\n- NoSQL: Redis, Memcached;\n- PostgreSQL, MSSQL;\n- CI/CD;\n- Docker/Kubernetes;\n- GitLab/Kibana;\n- JS, TypeScript, ReactJS, jQuery;\n- Bootstrap3/5, Webpack ,SASS/SCSS/CSS.\nЧем предстоит заниматься:\n- Разработка и сопровождение новых фич;\n- Поддержка и рефакторинг ранее разработанного функционала;\n- Решение проблем и оптимизация производительности;\n- Участвовать в проектировании и принятии архитектурных решений;\n- Взаимодействовать с фронт-разработчиками, тестировщиками и бизнесом.\nТребования:\n- Уверенные знания PHP7, опыт веб-разработки не менее 3-х лет;\n- Опыт работы с фреймворками Laravel или Symfony от 1 года;\n- Понимание ООП и паттернов проектирования, умение их применять;\n- Знание SQL на уровне написания запросов средней сложности;\n- Опыт работы с REST API, понимание протокола HTTP;\n- Опыт работы в команде с использованием Git;\n- Умение разбираться в чужом коде.\nПожелания:\n- Опыт создания высоконагруженных проектов;\n- Умение декомпозировать задачи и доводить их до конца;\n- Опыт использования docker для локальной разработки (Nginx+php-fpm);\n- Вы достаточно самостоятельны, чтобы разобраться в устройстве процесса, системы;\n- Вы достаточно внимательны и напишите в сопроводительном письме в какой версии php появилась функция is_countable();\n- Опыт использования PHPUnit.\nПреимущества:\n• Официальное трудоустройство и достойная заработная плата;\n• Гибридный график работы - 3 дня в офисе (понедельник-среда и четверг пятница-удаленная работа), начинаем работу в гибком графике - с 8 до 10;\n• Свободный dress code;\n• Комфортный офис в шаговой доступности от м. Петроградская/Чкаловская;\n• Чай, кофе, печеньки, обеды за счёт компании;\n• Комфортный темп разработки;\n• Возможность обучаться за счёт компании, возможность профессионального роста;\n• Скидка на покупку деталей и ремонт автомобиля в сервисах ЕвроАвто;\n• Корпоративные подарки для детей и взрослых;\n• Корпоративный футбол;\n• Участие в крупном проекте по развитию web – направления сети;\n• Возможность выбора направления работы."
+    },
+    {
+        "employer": "SuperJob",
+        "title": "PHP-разработчик (команда Поиск)",
+        "url": "https://www.superjob.ru/vakansii/php-razrabotchik-47011178.html",
+        "salary_from": null,
+        "salary_to": null,
+        "requirement": "Мы ищем старшего или ведущего разработчика в нашу команду бэкенд разработки “Поиск”, которая занимается занимается разработкой и поддержкой поискового движка, а также развитием поисковых компонентов и алгоритмов.\nНаш стек: PHP 7.4/8, MySQL (MariaDB); API по спецификации JSON:API взаимодействует с фронтом на Node.js, React.js и мобильными приложениями для iOS и Android.\nЧем предстоит заниматься:\n• Развитием поискового движка на основе Manticore (переход со Sphinx); \n• Улучшением поисковых алгоритмов;\n• Улучшением производительности компонентов системы — мы понимаем важность хорошего кода и разбираем техдолг в каждой итерации;\n• Следить за производительностью и метриками;\n\n• Сражаться с легаси;\n• Распиливать PHP монолит на сервисы.\nОт вас мы ждём:\n• Опыт коммерческой разработки на PHP;\n• Понимание принципов SOLID и применение их на практике;\n\n• Знание принципов работы с реляционными базами данных;\n• Желание развиваться cамостоятельно и помогать развиваться коллегам.\n\nБудет плюсом:\n• Опыт разработки на Go и работы с Manticore или Sphinx.\nСвоему будущему коллеге мы предлагаем:\n• Работу в одном из самых быстрорастущих рынков - HRTech.\n• Высокую инженерную культуру.\n• Непрерывное обучение и профессиональное развитие внутри компании.\n• Возможность стать частью сплоченной команды, любящей свое дело.\n• Регулярную обратную связь от наставников и руководителей.\n• Официальную заработную плату.\n• ДМС после прохождения испытательного срока.\n• Современный офис в 10 минутах пешей прогулки от станций метро Пушкинская/Маяковская/Чеховская/Новослободская.\n• Спортивный уголок.\n• Комфортную зону отдыха.\n• Кофе-поинты с вкуснейшим кофе и вендинговым аппаратом.\n• Оборудованное просторное место для питания.\n• Оплату проезда общественным транспортом."
+    },
+    {
+        "employer": "ИП Демиденко Мария Сергеевна",
+        "title": "Программист (Full Stack) удаленно",
+        "url": "https://nn.superjob.ru/vakansii/programmist-48604292.html",
+        "salary_from": 60000,
+        "salary_to": 150000,
+        "requirement": "Вакансия компании ИП Демиденко Мария Сергеевна\nМолодая компания с амбициозными целями\nОбязанности:\n- Разработка и поддержка Front-end и Back-end частей приложений. - WEB-разработка будет в основном. - Проекты по MarketPlace и сайты типа YouDo или Domclik. - Работа с базами данных, оптимизация запросов, создание триггеров и индексов. - Участие в проектировании архитектуры приложений с использованием подхода MVC. - Сотрудничество с другими членами команды для достижения общих целей проекта. \nТребования:\n- Опыт в области Front-end и Back-end разработки. - Знание языков программирования: C#, HTML, CSS, JavaScript. - Опыт работы с базами данных, в том числе PostgreSQL. - Глубокие знания SQL и основ работы с базами данных. - Опыт применения подхода MVC в проектировании приложений. - Навыки работы с триггерами и индексами. Дополнительные квалификации: - Уверенные знания технологического стека в сфере разработки программного обеспечения. - Опыт работы с другими языками программирования и фреймворками приветствуется. - Желание постоянного профессионального развития. Для нас важна скорость выполнения + Желание развиваться. Будет наставник! Наставник поможет в проф. вопросах – важно наличие базы у соискателя, а нарастить профессионализм сможем вместе.\nУсловия:\n- Работа удаленная - Зарплата от 60000 до 150000 рублей в месяц. Зависит от уровня."
+    }
+]
