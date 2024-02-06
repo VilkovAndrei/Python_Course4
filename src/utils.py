@@ -22,7 +22,8 @@ def user_interaction():
         user_command = input(
             "1 - Вывести список вакансий;\n"
             "2 - Отсортировать по минимальной зарплате и вывести top вакансий;\n"
-            "3 - Удалить загруженные вакансии из json-файла;\n"
+            "3 - Отфильтровать по требованиям;\n"
+            "4 - Удалить загруженные вакансии из json-файла;\n"
             "exit - для выхода.\n"
             ">>> "
         )
@@ -33,6 +34,9 @@ def user_interaction():
         elif user_command == "2":
             vacancies = connector.sorted_by_salary()
         elif user_command == "3":
+            key_word_req = input("Введите запрос по требованиям вакансий  >>> ")
+            vacancies = connector.filtered_by_requirement(key_word_req)
+        elif user_command == "4":
             connector.delete_info()
             continue
         else:
